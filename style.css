@@ -1,0 +1,38 @@
+.h{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px fuchsia;
+}
+.he{
+    float:none;
+    background-color:white;
+    padding:10px;
+    border-radius: 20px;
+    color:black;
+    box-shadow: 5px 5px 5px coral blue;
+    
+}
+.hs{
+    font-size:20px;
+}
+.r{
+    font-size:20px;
+    box-shadow: 5px 5px 5px cyan;
+}
+.a{
+    color:purple;
+    position:fixed;
+    bottom:0;
+    width:100%;
+    background-color:cyan;
+    line-height: 3;
+    text-align:center;
+    text-decoration: underline;
+}
+canvas { 
+    border:5px solid white;
+      border-radius:20px;
+       box-shadow:5px 5px 5px grey;
+        margin-top: 150px;
+     }
